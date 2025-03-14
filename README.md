@@ -1,10 +1,10 @@
-# Arcadia.pump
+# arcadia.fun
 
-Arcadia.pump simplifies memecoin creation with seamless minting on the blockchain. This platform gamifies the trading experience, making it fun, engaging, and low-stakes for users who want to explore crypto markets without the pressure of high-risk investments.
+arcadia.fun simplifies memecoin creation with seamless minting on the blockchain. This platform gamifies the trading experience, making it fun, engaging, and low-stakes for users who want to explore crypto markets without the pressure of high-risk investments.
 
 ## Overview
 
-Memecoin trading is often chaotic, speculative, and intimidating for new users, driven by hype rather than understanding. Arcadia.pump changes this dynamic by using simulated memecoin trading as an educational tool. It makes the experience approachable and entertaining while offering users a safe environment to learn about volatility and decision-making.
+Memecoin trading is often chaotic, speculative, and intimidating for new users, driven by hype rather than understanding. arcadia.fun changes this dynamic by using simulated memecoin trading as an educational tool. It makes the experience approachable and entertaining while offering users a safe environment to learn about volatility and decision-making.
 
 ### Key Features:
 
@@ -40,7 +40,7 @@ Memecoin trading is often chaotic, speculative, and intimidating for new users, 
 
 ## Website
 
-[Visit Arcadia.pump](https://arcadiapump.vercel.app/)
+[Visit arcadia.fun](https://arcadiapump.vercel.app/)
 
 ---
 
@@ -80,8 +80,8 @@ http://localhost:3000
 
 ## GitHub Repository
 
-[Arcadia.pump GitHub Repository](https://github.com/M-DEV-1/arcadia-meme)
+[arcadia.fun GitHub Repository](https://github.com/M-DEV-1/arcadia-meme)
 
 ---
 
-Arcadia.pump is your gateway to the fun and speculative world of memecoins. Boldly take on the next 100x challenge while learning the essentials of crypto trading!
+arcadia.fun is your gateway to the fun and speculative world of memecoins. Boldly take on the next 100x challenge while learning the essentials of crypto trading!
